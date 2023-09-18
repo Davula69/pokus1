@@ -1,2 +1,2 @@
-# pokus1
-Toto je můj první pokus s verzováním na GitHub.
+# Pokus1
+Toto je můj první pokus s verzováním
